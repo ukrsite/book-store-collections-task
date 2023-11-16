@@ -1,0 +1,4 @@
+expected
+"public abstract java.util.List com.epam.rd.autocode.assessment.basics.collections.Sort.sortBooksByPublishedYear()"
+"public abstract java.util.List com.epam.rd.autocode.assessment.basics.collections.Sort.sortOrdersByClientId()"
+"public abstract java.util.List com.epam.rd.autocode.assessment.basics.collections.Sort.sortBooksByPriceDesc()"

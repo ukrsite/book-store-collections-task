@@ -1,0 +1,3 @@
+expected
+"public abstract void com.epam.rd.autocode.assessment.basics.collections.Add.addBook(com.epam.rd.autocode.assessment.basics.entity.Book)"
+"public abstract void com.epam.rd.autocode.assessment.basics.collections.Add.addOrder(com.epam.rd.autocode.assessment.basics.entity.Order)"

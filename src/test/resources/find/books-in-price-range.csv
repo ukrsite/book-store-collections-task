@@ -1,0 +1,14 @@
+id,name,genre,ageGroup,price,publicationYear,author,numberOfPages,characteristics,description,language
+1,The Great Gatsby,Classics,ADULT,12.99,2022-01-18,F. Scott Fitzgerald,180,Roaring Twenties,A tragic love story,ENGLISH
+4,Harry Potter and the Sorcerer's Stone,Fantasy,CHILD,11.75,2022-01-12,J.K. Rowling,309,Magic,A young wizard's journey,ENGLISH
+6,The Wind-Up Bird Chronicle,Contemporary Fiction,ADULT,12.25,2022-01-05,Haruki Murakami,607,Surrealism,A man's search for his missing wife,JAPANESE
+7,Les Misérables,Classics,ADULT,15.95,2022-01-06,Victor Hugo,1463,Historical Fiction,A story of love justice and redemption,FRENCH
+9,One Hundred Years of Solitude,Magical Realism,ADULT,14.00,2022-01-07,Gabriel García Márquez,417,Magical realism,A multi-generational tale in Macondo,SPANISH
+26,Brave New World,Dystopian,ADULT,11.75,2022-01-19,Aldous Huxley,311,Totalitarianism,A future where individuality is suppressed,ENGLISH
+27,Moby-Dick,Adventure,ADULT,13.50,2022-01-26,Herman Melville,625,Whaling,The pursuit of the white whale,ENGLISH
+44,1Q84,Science Fiction,ADULT,13.99,2022-01-22,Haruki Murakami,1318,Surrealism,Parallel worlds and strange happenings,ENGLISH
+46,Le Rouge et le Noir,Classics,ADULT,12.50,2022-01-23,Stendhal,432,Historical Fiction,Les ambitions de Julien Sorel,FRENCH
+52,ノルウェイの森,Contemporary Fiction,ADULT,11.25,2022-01-27,Haruki Murakami,382,Romance,A story of love and loss in Tokyo,ENGLISH
+53,海辺のカフカ,Contemporary Fiction,ADULT,12.75,2022-01-10,Haruki Murakami,402,Surrealism,A young boy's quest by the sea,JAPANESE
+54,1Q84,Science Fiction,ADULT,14.99,2022-01-15,Haruki Murakami,1318,Surrealism,Parallel worlds and strange happenings,ENGLISH
+55,Кобзар,Classics,ADULT,11.50,2022-01-29,Тарас Шевченко,115,Romantic,Збірка поетичних творів Тараса Шевченка,UKRAINIAN

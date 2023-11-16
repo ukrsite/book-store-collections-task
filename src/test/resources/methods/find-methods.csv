@@ -1,0 +1,8 @@
+expected
+"public abstract java.util.Set com.epam.rd.autocode.assessment.basics.collections.Find.findAuthors()"
+"public abstract java.util.Map com.epam.rd.autocode.assessment.basics.collections.Find.findOrdersGroupedByClientId()"
+"public abstract java.util.List com.epam.rd.autocode.assessment.basics.collections.Find.findMostPopularAuthors()"
+"public abstract java.util.List com.epam.rd.autocode.assessment.basics.collections.Find.findBooksWhichPublishedAfterSelectedDate(java.time.LocalDate)"
+"public abstract java.util.List com.epam.rd.autocode.assessment.basics.collections.Find.findBooksInPriceRange(java.math.BigDecimal,java.math.BigDecimal)"
+"public abstract java.util.Set com.epam.rd.autocode.assessment.basics.collections.Find.findClientsWithAveragePriceNoLessThan(java.util.List,int)"
+"public abstract java.util.Set com.epam.rd.autocode.assessment.basics.collections.Find.findOrdersByDate(java.time.LocalDateTime)"

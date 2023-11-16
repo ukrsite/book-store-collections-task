@@ -1,0 +1,30 @@
+id,name,genre,ageGroup,price,publicationYear,author,numberOfPages,characteristics,description,language
+15,The Count of Monte Cristo,Classics,ADULT,17.50,2022-01-01,Alexandre Dumas,1276,Adventure,Revenge and redemption in 19th-century France,FRENCH
+47,El Principito,Children's,CHILD,7.25,2022-01-02,Antoine de Saint-Exupéry,85,Philosophy,Las aventuras de un joven príncipe,SPANISH
+5,The Catcher in the Rye,Classics,TEEN,10.99,2022-01-03,J.D. Salinger,224,Coming of age,A teenager's journey in New York,ENGLISH
+29,The Road,Dystopian,ADULT,8.75,2022-01-04,Cormac McCarthy,287,Post-apocalyptic,A father and son's journey in a post-apocalyptic world,ENGLISH
+6,The Wind-Up Bird Chronicle,Contemporary Fiction,ADULT,12.25,2022-01-05,Haruki Murakami,607,Surrealism,A man's search for his missing wife,JAPANESE
+7,Les Misérables,Classics,ADULT,15.95,2022-01-06,Victor Hugo,1463,Historical Fiction,A story of love justice and redemption,FRENCH
+9,One Hundred Years of Solitude,Magical Realism,ADULT,14.00,2022-01-07,Gabriel García Márquez,417,Magical realism,A multi-generational tale in Macondo,SPANISH
+10,The Metamorphosis,Classics,ADULT,7.50,2022-01-08,Franz Kafka,55,Existentialism,A man's transformation into an insect,GERMAN
+12,The Little Prince,Children's,CHILD,9.00,2022-01-09,Antoine de Saint-Exupéry,96,Philosophy,A charming tale with life lessons,FRENCH
+53,海辺のカフカ,Contemporary Fiction,ADULT,12.75,2022-01-10,Haruki Murakami,402,Surrealism,A young boy's quest by the sea,JAPANESE
+13,The Stranger,Philosophical Fiction,ADULT,8.75,2022-01-11,Albert Camus,123,Existentialism,A man's sense of alienation,FRENCH
+4,Harry Potter and the Sorcerer's Stone,Fantasy,CHILD,11.75,2022-01-12,J.K. Rowling,309,Magic,A young wizard's journey,ENGLISH
+17,Pride and Prejudice,Classics,ADULT,10.75,2022-01-13,Jane Austen,355,Romantic,The trials of love and class,ENGLISH
+21,The Picture of Dorian Gray,Classics,ADULT,9.25,2022-01-14,Oscar Wilde,207,Gothic,A portrait that ages while its subject remains youthful,ENGLISH
+54,1Q84,Science Fiction,ADULT,14.99,2022-01-15,Haruki Murakami,1318,Surrealism,Parallel worlds and strange happenings,ENGLISH
+22,The Hitchhiker's Guide to the Galaxy,Science Fiction,ADULT,8.50,2022-01-16,Douglas Adams,193,Satire,An intergalactic journey with a towel,ENGLISH
+24,Dracula,Horror,ADULT,9.99,2022-01-17,Bram Stoker,488,Gothic,A tale of the famous vampire,ENGLISH
+1,The Great Gatsby,Classics,ADULT,12.99,2022-01-18,F. Scott Fitzgerald,180,Roaring Twenties,A tragic love story,ENGLISH
+26,Brave New World,Dystopian,ADULT,11.75,2022-01-19,Aldous Huxley,311,Totalitarianism,A future where individuality is suppressed,ENGLISH
+30,The Hobbit,Fantasy,CHILD,9.75,2022-01-20,J.R.R. Tolkien,310,Adventure,The adventure of a hobbit named Bilbo Baggins,ENGLISH
+23,The Shining,Horror,ADULT,10.25,2022-01-21,Stephen King,447,Psychological Horror,The terror at the Overlook Hotel,ENGLISH
+44,1Q84,Science Fiction,ADULT,13.99,2022-01-22,Haruki Murakami,1318,Surrealism,Parallel worlds and strange happenings,ENGLISH
+46,Le Rouge et le Noir,Classics,ADULT,12.50,2022-01-23,Stendhal,432,Historical Fiction,Les ambitions de Julien Sorel,FRENCH
+48,El Extranjero,Philosophical Fiction,ADULT,8.50,2022-01-24,Albert Camus,130,Existentialism,La vida de un hombre extraño,SPANISH
+51,コンビニ人間,Contemporary Fiction,ADULT,9.75,2022-01-25,Murata Sayaka,256,Social Commentary,The life of a woman who works in a convenience store,JAPANESE
+27,Moby-Dick,Adventure,ADULT,13.50,2022-01-26,Herman Melville,625,Whaling,The pursuit of the white whale,ENGLISH
+52,ノルウェイの森,Contemporary Fiction,ADULT,11.25,2022-01-27,Haruki Murakami,382,Romance,A story of love and loss in Tokyo,ENGLISH
+2,To Kill a Mockingbird,Classics,TEEN,9.95,2022-01-28,Harper Lee,281,Southern Gothic,A tale of racial injustice,ENGLISH
+55,Кобзар,Classics,ADULT,11.50,2022-01-29,Тарас Шевченко,115,Romantic,Збірка поетичних творів Тараса Шевченка,UKRAINIAN

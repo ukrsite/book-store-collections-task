@@ -1,0 +1,5 @@
+id,name,genre,ageGroup,price,publicationYear,author,numberOfPages,characteristics,description,language
+2,To Kill a Mockingbird,Classics,TEEN,9.95,2022-01-28,Harper Lee,281,Southern Gothic,A tale of racial injustice,ENGLISH
+27,Moby-Dick,Adventure,ADULT,13.50,2022-01-26,Herman Melville,625,Whaling,The pursuit of the white whale,ENGLISH
+52,ノルウェイの森,Contemporary Fiction,ADULT,11.25,2022-01-27,Haruki Murakami,382,Romance,A story of love and loss in Tokyo,ENGLISH
+55,Кобзар,Classics,ADULT,11.50,2022-01-29,Тарас Шевченко,115,Romantic,Збірка поетичних творів Тараса Шевченка,UKRAINIAN

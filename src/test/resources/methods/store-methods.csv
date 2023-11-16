@@ -1,0 +1,13 @@
+expected
+"public void com.epam.rd.autocode.assessment.basics.collections.Store.addBook(com.epam.rd.autocode.assessment.basics.entity.Book)"
+"public void com.epam.rd.autocode.assessment.basics.collections.Store.addOrder(com.epam.rd.autocode.assessment.basics.entity.Order)"
+"public java.util.Set com.epam.rd.autocode.assessment.basics.collections.Store.findAuthors()"
+"public java.util.Map com.epam.rd.autocode.assessment.basics.collections.Store.findOrdersGroupedByClientId()"
+"public java.util.List com.epam.rd.autocode.assessment.basics.collections.Store.findMostPopularAuthors()"
+"public java.util.List com.epam.rd.autocode.assessment.basics.collections.Store.findBooksWhichPublishedAfterSelectedDate(java.time.LocalDate)"
+"public java.util.List com.epam.rd.autocode.assessment.basics.collections.Store.findBooksInPriceRange(java.math.BigDecimal,java.math.BigDecimal)"
+"public java.util.Set com.epam.rd.autocode.assessment.basics.collections.Store.findClientsWithAveragePriceNoLessThan(java.util.List,int)"
+"public java.util.Set com.epam.rd.autocode.assessment.basics.collections.Store.findOrdersByDate(java.time.LocalDateTime)"
+"public java.util.List com.epam.rd.autocode.assessment.basics.collections.Store.sortBooksByPublishedYear()"
+"public java.util.List com.epam.rd.autocode.assessment.basics.collections.Store.sortOrdersByClientId()"
+"public java.util.List com.epam.rd.autocode.assessment.basics.collections.Store.sortBooksByPriceDesc()"
