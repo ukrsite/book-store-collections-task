@@ -1,5 +1,10 @@
 package com.epam.rd.autocode.assessment.basics.collections;
 
+import com.epam.rd.autocode.assessment.basics.entity.Book;
+import com.epam.rd.autocode.assessment.basics.entity.Order;
+
 public interface Add {
-    // place your code here
+    void addBook(Book book);
+
+    void addOrder(Order order);
 }

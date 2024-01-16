@@ -7,13 +7,25 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
+import static com.epam.rd.autocode.assessment.basics.entity.MethodChecker.isMethodStartsWithAndIsAssignable;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class SortTest {
 
     private static Store store;
+
+    @BeforeAll
+    static void testsOverrideSortMethodStore() {
+        long numberOfFindOverrideMethods = Arrays.stream(Store.class.getDeclaredMethods())
+                .filter(val -> isMethodStartsWithAndIsAssignable(val, "sort", Sort.class))
+                .count();
+        assertEquals(3, numberOfFindOverrideMethods,
+                "Sort methods of Store has not implemented right");
+    }
+
 
     @BeforeAll
     static void setGlobal() throws Exception {

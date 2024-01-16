@@ -4,6 +4,7 @@ import com.epam.rd.autocode.assessment.basics.entity.Book;
 import com.epam.rd.autocode.assessment.basics.entity.Order;
 import com.epam.rd.autocode.assessment.basics.entity.enums.AgeGroup;
 import com.epam.rd.autocode.assessment.basics.entity.enums.Language;
+import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
@@ -11,14 +12,26 @@ import org.junit.jupiter.api.Test;
 import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
+import static com.epam.rd.autocode.assessment.basics.entity.MethodChecker.isMethodStartsWithAndIsAssignable;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class AddTest {
 
     private List<Book> books;
     private List<Order> orders;
+
+    @BeforeAll
+    static void testOverrideMethodAdd() {
+        long numberOfAddOverrideMethods = Arrays.stream(Store.class.getDeclaredMethods())
+                .filter(val -> isMethodStartsWithAndIsAssignable(val, "add", Add.class))
+                .count();
+        assertEquals(2, numberOfAddOverrideMethods,
+                "Add methods of Store has not implemented right");
+    }
 
     @BeforeEach
     void launch() {
