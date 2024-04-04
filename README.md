@@ -4,7 +4,6 @@ The purpose of this exercise is to check your knowledge of the Java collections 
 
 Duration: **1** hour
 
-
 ## Description
 
 In this exercise, you will implement "Book Store" to allow users to filter and sort books and information about orders in a variety of ways.
@@ -16,7 +15,7 @@ You are also given a description of the following interfaces and class:
 * The `Sort` interface allows books to be sorted by published year, price(in descending order) and orders to be sorted by clientId.
 * The `Find` interface allows users to search for and filter books and orders based on various criteria.
 * The `Add` interface allows books and orders to be added.
-* The `Store` class determines the functionality of the book store.
+* The `Store` class defines the functionality of the book store.
 
 
 First, proceed to the Domain model classes and implement their content.
@@ -38,7 +37,7 @@ You need to implement the following methods of the `Store` class:
    Returns a map in which the key is the clientId, and the value is a list of the orders of selected client that the store has
 
 * `List<String> findMostPopularAuthors()`  
-   Calculates how much times each books of the author in the fleet has been ordered and then return the list of authors which has the greatest numbers of orders 
+   Calculates the number of books that has been ordered for each author 
 
 * `List<Book> findBooksWhichPublishedAfterSelectedDate(LocalDate date)`  
    Returns a list of books whose published date is after the date parameter
