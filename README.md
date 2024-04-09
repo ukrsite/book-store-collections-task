@@ -9,7 +9,7 @@ Duration: **1** hour
 In this exercise, you will implement "Book Store" to allow users to filter and sort books and information about orders in a variety of ways.
 The class diagram of the Domain model is shown in the figure below:
 
-![book-diagram-v1.png](book-diagram-v1.png)
+![diagram.png](diagram.png)
 
 You are also given a description of the following interfaces and class:
 * The `Sort` interface allows books to be sorted by published year, price(in descending order) and orders to be sorted by clientId.
