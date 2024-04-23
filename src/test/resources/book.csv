@@ -1,4 +1,4 @@
-id,name,genre,ageGroup,price,publicationYear,author,numberOfPages,characteristics,description,language
+id,name,genre,ageGroup,price,publicationDate,author,numberOfPages,characteristics,description,language
 1,The Great Gatsby,Classics,ADULT,12.99,2022-01-18,F. Scott Fitzgerald,180,Roaring Twenties,A tragic love story,ENGLISH
 2,To Kill a Mockingbird,Classics,TEEN,9.95,2022-01-28,Harper Lee,281,Southern Gothic,A tale of racial injustice,ENGLISH
 4,Harry Potter and the Sorcerer's Stone,Fantasy,CHILD,11.75,2022-01-12,J.K. Rowling,309,Magic,A young wizard's journey,ENGLISH

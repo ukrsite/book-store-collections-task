@@ -1,4 +1,4 @@
-id,email,password,name,phone,dateOfBirth
+id,email,password,name,phone,birthDate
 1,admin@vpa.com,kY$60#25#IL,Admin,111-602-23-00,1996-07-03
 2,manager@vpa.com,pk%47#82%Fx,Monger,111-402-57-21,1992-10-11
 3,alice@vpa.com,\N#00$46$nj,Alice,111-552-26-31,1980-09-11

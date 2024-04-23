@@ -1,4 +1,4 @@
-id,name,genre,ageGroup,price,publicationYear,author,numberOfPages,characteristics,description,language
+id,name,genre,ageGroup,price,publicationDate,author,numberOfPages,characteristics,description,language
 15,The Count of Monte Cristo,Classics,ADULT,17.50,2022-01-01,Alexandre Dumas,1276,Adventure,Revenge and redemption in 19th-century France,FRENCH
 7,Les Misérables,Classics,ADULT,15.95,2022-01-06,Victor Hugo,1463,Historical Fiction,A story of love justice and redemption,FRENCH
 54,1Q84,Science Fiction,ADULT,14.99,2022-01-15,Haruki Murakami,1318,Surrealism,Parallel worlds and strange happenings,ENGLISH

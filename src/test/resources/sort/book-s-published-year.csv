@@ -1,4 +1,4 @@
-id,name,genre,ageGroup,price,publicationYear,author,numberOfPages,characteristics,description,language
+id,name,genre,ageGroup,price,publicationDate,author,numberOfPages,characteristics,description,language
 15,The Count of Monte Cristo,Classics,ADULT,17.50,2022-01-01,Alexandre Dumas,1276,Adventure,Revenge and redemption in 19th-century France,FRENCH
 47,El Principito,Children's,CHILD,7.25,2022-01-02,Antoine de Saint-Exupéry,85,Philosophy,Las aventuras de un joven príncipe,SPANISH
 5,The Catcher in the Rye,Classics,TEEN,10.99,2022-01-03,J.D. Salinger,224,Coming of age,A teenager's journey in New York,ENGLISH
